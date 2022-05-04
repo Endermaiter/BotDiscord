@@ -10,7 +10,9 @@
 
 ## LINK DE INVITACION --> [`Haga click aquí`](https://discord.com/api/oauth2/authorize?client_id=956174919069233222&scope=bot)
 
-Empieza escribiendo `/help` para conocer todo lo que **BotMarcos** puede hacer
+Empieza escribiendo `/help` para conocer todo lo que **BotMarcos** puede hacer.
+
+Y ahora, just enjoy it!!
 
 
 
