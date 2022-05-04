@@ -6,9 +6,11 @@
  Es capaz de responderte, enviar embeds por ti, listar archivos...¡¡y mucho mas!! ¡¡Descubrelo tu mismo!!
 
  
- Deja que BotMarcos entre a tu servidor de Discord para compartir piso contigo y con los que te importan:
+ Deja que **BotMarcos** entre a tu servidor de Discord para compartir piso contigo y con los que te importan:
 
 ## LINK DE INVITACION --> [`Haga click aquí`](https://discord.com/api/oauth2/authorize?client_id=956174919069233222&scope=bot)
+
+Empieza escribiendo `/help` para conocer todo lo que **BotMarcos** puede hacer
 
 
 
